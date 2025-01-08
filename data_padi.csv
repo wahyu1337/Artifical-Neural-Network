@@ -1,0 +1,201 @@
+jenis_padi,umur_tanaman,metode_tanam,ketinggian_tempat,pH_tanah,ketersediaan_air,serangan_hama,cuaca,pupuk,label
+IR 64,90,Tradisional,150,6.5,Baik,Rendah,Normal,100,tinggi
+Seruni,80,Modern,200,6.0,Cukup,Rendah,Normal,80,tinggi
+Ciherang,70,Tradisional,120,5.5,Kurang,Tinggi,Buruk,50,sedang
+IR 64,85,Modern,180,6.3,Baik,Rendah,Normal,90,tinggi
+Seruni,75,Tradisional,160,6.0,Cukup,Sedang,Buruk,60,sedang
+Ciherang,60,Modern,140,5.8,Kurang,Tinggi,Buruk,40,rendah
+IR 64,95,Tradisional,150,6.7,Baik,Rendah,Normal,120,tinggi
+Seruni,88,Modern,170,6.2,Cukup,Sedang,Normal,85,sedang
+Ciherang,65,Tradisional,130,5.6,Kurang,Tinggi,Buruk,30,rendah
+IR 64,90,Modern,160,6.5,Baik,Rendah,Normal,110,tinggi
+Seruni,78,Tradisional,155,6.1,Cukup,Rendah,Normal,75,tinggi
+Ciherang,73,Modern,145,5.9,Kurang,Tinggi,Buruk,55,sedang
+IR 64,92,Tradisional,150,6.8,Baik,Rendah,Normal,125,tinggi
+Seruni,82,Modern,170,6.2,Cukup,Sedang,Normal,95,sedang
+Ciherang,68,Tradisional,125,5.5,Kurang,Tinggi,Buruk,35,rendah
+IR 64,89,Modern,160,6.4,Baik,Rendah,Normal,115,tinggi
+Seruni,76,Tradisional,145,6.0,Cukup,Rendah,Normal,70,tinggi
+Ciherang,72,Modern,135,5.7,Kurang,Sedang,Buruk,45,sedang
+IR 64,91,Tradisional,150,6.7,Baik,Rendah,Normal,130,tinggi
+Seruni,84,Modern,175,6.3,Cukup,Sedang,Buruk,85,sedang
+Ciherang,69,Tradisional,160,5.6,Kurang,Tinggi,Buruk,25,rendah
+IR 64,88,Modern,150,6.5,Baik,Rendah,Normal,105,tinggi
+Seruni,79,Tradisional,158,6.1,Cukup,Rendah,Normal,78,tinggi
+Ciherang,66,Modern,145,5.5,Kurang,Sedang,Buruk,37,rendah
+IR 64,90,Tradisional,155,6.7,Baik,Rendah,Normal,135,tinggi
+Seruni,83,Modern,165,6.4,Cukup,Sedang,Buruk,88,sedang
+Ciherang,70,Tradisional,140,5.9,Kurang,Tinggi,Buruk,32,rendah
+IR 64,86,Modern,150,6.8,Baik,Rendah,Normal,125,tinggi
+Seruni,81,Tradisional,172,6.2,Cukup,Sedang,Normal,92,sedang
+Ciherang,63,Modern,130,5.5,Kurang,Tinggi,Buruk,28,rendah
+IR 64,80,Modern,217,6.9,Cukup,Rendah,Buruk,52,sedang
+Ciherang,80,Modern,144,6.1,Cukup,Sedang,Buruk,54,sedang
+IR 64,85,Tradisional,233,5.3,Cukup,Sedang,Buruk,107,sedang
+Ciherang,75,Tradisional,115,5.6,Baik,Tinggi,Buruk,95,tinggi
+Seruni,90,Modern,114,6.9,Kurang,Tinggi,Normal,96,tinggi
+Ciherang,85,Modern,240,6.8,Kurang,Rendah,Normal,94,tinggi
+IR 64,85,Modern,138,5.8,Cukup,Sedang,Normal,69,sedang
+Seruni,85,Modern,111,6.2,Cukup,Rendah,Normal,91,sedang
+IR 64,70,Modern,197,5.1,Baik,Sedang,Buruk,70,tinggi
+Ciherang,90,Modern,206,6.1,Kurang,Sedang,Buruk,107,sedang
+Ciherang,70,Modern,185,5.5,Cukup,Sedang,Normal,53,tinggi
+IR 64,75,Tradisional,206,5.3,Cukup,Tinggi,Buruk,89,tinggi
+Seruni,85,Modern,209,6.0,Baik,Rendah,Normal,112,tinggi
+IR 64,90,Modern,188,5.7,Kurang,Tinggi,Buruk,109,tinggi
+IR 64,75,Modern,159,5.9,Kurang,Sedang,Normal,117,tinggi
+IR 64,85,Modern,112,5.8,Kurang,Tinggi,Buruk,79,tinggi
+Seruni,80,Tradisional,117,6.3,Baik,Rendah,Buruk,67,sedang
+IR 64,80,Modern,150,5.6,Baik,Tinggi,Normal,109,tinggi
+Seruni,80,Modern,142,6.5,Baik,Tinggi,Normal,59,sedang
+Ciherang,70,Modern,100,6.4,Cukup,Tinggi,Buruk,54,sedang
+Ciherang,85,Modern,149,6.0,Kurang,Rendah,Normal,115,sedang
+Seruni,85,Modern,134,6.9,Kurang,Sedang,Normal,93,sedang
+Seruni,75,Modern,239,6.3,Baik,Tinggi,Normal,75,tinggi
+Seruni,70,Tradisional,224,5.2,Cukup,Sedang,Normal,56,tinggi
+Ciherang,70,Tradisional,166,5.9,Baik,Rendah,Normal,77,sedang
+Seruni,70,Modern,125,5.4,Baik,Tinggi,Buruk,69,sedang
+IR 64,90,Modern,211,5.5,Baik,Rendah,Normal,73,sedang
+IR 64,90,Modern,157,6.6,Baik,Sedang,Normal,61,sedang
+Ciherang,75,Modern,155,6.5,Baik,Tinggi,Normal,74,sedang
+IR 64,75,Tradisional,231,5.4,Kurang,Rendah,Normal,68,tinggi
+Ciherang,70,Tradisional,242,6.2,Cukup,Tinggi,Normal,51,tinggi
+IR 64,90,Modern,222,6.6,Baik,Rendah,Normal,87,sedang
+IR 64,70,Tradisional,155,5.5,Baik,Sedang,Buruk,113,tinggi
+IR 64,90,Tradisional,230,6.1,Baik,Sedang,Normal,80,sedang
+Seruni,70,Tradisional,178,6.8,Cukup,Tinggi,Buruk,73,sedang
+Seruni,80,Modern,180,6.2,Baik,Tinggi,Buruk,114,sedang
+Seruni,85,Tradisional,200,5.5,Kurang,Rendah,Normal,91,tinggi
+Seruni,85,Tradisional,208,6.2,Kurang,Sedang,Buruk,77,tinggi
+Seruni,80,Tradisional,148,6.7,Baik,Sedang,Buruk,108,sedang
+Seruni,70,Tradisional,127,6.0,Baik,Sedang,Normal,76,tinggi
+IR 64,90,Modern,235,6.6,Cukup,Rendah,Normal,71,tinggi
+Seruni,70,Modern,146,6.2,Cukup,Tinggi,Buruk,89,tinggi
+IR 64,70,Tradisional,162,6.4,Baik,Tinggi,Buruk,78,sedang
+IR 64,80,Tradisional,219,6.0,Cukup,Sedang,Buruk,94,sedang
+Ciherang,90,Tradisional,188,6.9,Cukup,Rendah,Normal,89,tinggi
+Ciherang,75,Modern,148,5.8,Baik,Rendah,Buruk,96,tinggi
+Seruni,85,Modern,234,6.5,Baik,Rendah,Normal,119,sedang
+IR 64,85,Modern,107,5.8,Kurang,Sedang,Buruk,59,sedang
+IR 64,90,Tradisional,195,5.5,Cukup,Sedang,Normal,71,tinggi
+Ciherang,90,Modern,238,5.2,Kurang,Rendah,Normal,87,sedang
+Seruni,70,Tradisional,221,6.8,Kurang,Rendah,Buruk,118,tinggi
+IR 64,75,Modern,160,5.4,Cukup,Tinggi,Normal,52,tinggi
+IR 64,85,Modern,158,5.9,Cukup,Sedang,Normal,83,sedang
+Seruni,85,Modern,148,6.4,Kurang,Tinggi,Normal,74,sedang
+Ciherang,85,Tradisional,169,6.2,Cukup,Tinggi,Normal,114,tinggi
+Ciherang,70,Tradisional,127,6.2,Cukup,Rendah,Normal,104,sedang
+IR 64,90,Tradisional,166,5.8,Cukup,Rendah,Buruk,93,sedang
+Seruni,85,Tradisional,231,5.1,Kurang,Sedang,Buruk,53,tinggi
+IR 64,80,Modern,142,5.1,Kurang,Sedang,Normal,81,sedang
+Ciherang,70,Modern,200,5.9,Cukup,Tinggi,Buruk,118,sedang
+IR 64,70,Tradisional,195,5.9,Kurang,Tinggi,Normal,80,tinggi
+Ciherang,90,Tradisional,236,6.4,Kurang,Sedang,Normal,96,sedang
+Ciherang,80,Modern,114,6.3,Baik,Sedang,Normal,107,tinggi
+IR 64,80,Modern,194,5.5,Kurang,Tinggi,Normal,50,tinggi
+IR 64,90,Tradisional,202,6.4,Kurang,Rendah,Buruk,56,sedang
+IR 64,80,Modern,107,6.1,Baik,Rendah,Normal,65,tinggi
+Seruni,85,Tradisional,203,6.2,Baik,Tinggi,Normal,82,sedang
+IR 64,85,Tradisional,249,6.7,Cukup,Tinggi,Normal,103,sedang
+IR 64,85,Tradisional,241,5.1,Kurang,Rendah,Normal,98,sedang
+Ciherang,85,Modern,105,5.3,Kurang,Sedang,Normal,113,sedang
+Ciherang,85,Tradisional,199,5.5,Baik,Sedang,Buruk,99,sedang
+Ciherang,90,Tradisional,199,5.6,Baik,Rendah,Buruk,77,tinggi
+IR 64,90,Tradisional,219,6.0,Cukup,Rendah,Normal,77,tinggi
+Seruni,80,Modern,125,5.6,Cukup,Tinggi,Normal,102,sedang
+IR 64,80,Modern,188,6.8,Kurang,Sedang,Normal,103,tinggi
+Seruni,80,Modern,206,6.0,Cukup,Sedang,Normal,51,sedang
+IR 64,90,Modern,224,5.6,Cukup,Sedang,Normal,53,sedang
+Seruni,80,Tradisional,210,6.1,Baik,Sedang,Buruk,70,sedang
+Ciherang,75,Tradisional,187,5.5,Kurang,Rendah,Buruk,81,sedang
+IR 64,75,Modern,244,6.3,Cukup,Sedang,Normal,55,tinggi
+Ciherang,90,Modern,149,6.8,Kurang,Tinggi,Buruk,55,tinggi
+Ciherang,90,Modern,161,5.5,Cukup,Rendah,Buruk,57,sedang
+IR 64,80,Modern,246,5.6,Baik,Rendah,Normal,110,sedang
+Ciherang,80,Modern,189,5.4,Kurang,Sedang,Normal,102,tinggi
+Seruni,75,Tradisional,147,5.2,Kurang,Tinggi,Normal,75,tinggi
+Seruni,75,Modern,146,5.4,Kurang,Tinggi,Buruk,55,tinggi
+Ciherang,85,Modern,163,6.9,Cukup,Sedang,Normal,95,sedang
+IR 64,75,Tradisional,151,6.3,Cukup,Rendah,Buruk,117,sedang
+IR 64,85,Tradisional,130,5.6,Cukup,Rendah,Normal,73,tinggi
+IR 64,70,Modern,115,5.4,Baik,Sedang,Normal,89,sedang
+IR 64,70,Tradisional,119,6.3,Baik,Rendah,Buruk,75,tinggi
+Seruni,85,Modern,134,5.9,Kurang,Rendah,Normal,63,tinggi
+IR 64,85,Tradisional,100,6.3,Baik,Tinggi,Buruk,78,sedang
+Seruni,75,Tradisional,219,6.2,Kurang,Rendah,Normal,90,tinggi
+IR 64,80,Modern,240,6.7,Kurang,Rendah,Buruk,54,sedang
+Seruni,70,Tradisional,116,6.5,Cukup,Rendah,Normal,84,sedang
+Ciherang,85,Tradisional,197,5.4,Kurang,Tinggi,Buruk,61,tinggi
+Seruni,90,Tradisional,172,5.4,Kurang,Rendah,Buruk,52,sedang
+Ciherang,90,Tradisional,249,5.3,Baik,Rendah,Normal,103,sedang
+Seruni,75,Modern,189,5.3,Cukup,Tinggi,Normal,117,tinggi
+Ciherang,80,Tradisional,155,6.9,Baik,Sedang,Normal,106,tinggi
+IR 64,70,Modern,136,5.5,Kurang,Tinggi,Buruk,92,tinggi
+Ciherang,70,Tradisional,156,5.9,Kurang,Tinggi,Buruk,113,tinggi
+Ciherang,70,Modern,143,5.9,Baik,Tinggi,Buruk,99,tinggi
+IR 64,70,Tradisional,213,6.9,Baik,Tinggi,Normal,112,sedang
+IR 64,75,Modern,191,5.6,Cukup,Sedang,Normal,105,tinggi
+IR 64,85,Tradisional,118,5.5,Baik,Tinggi,Normal,102,tinggi
+IR 64,90,Tradisional,149,6.6,Cukup,Rendah,Buruk,65,sedang
+Seruni,85,Tradisional,152,5.9,Cukup,Rendah,Normal,111,tinggi
+Ciherang,75,Tradisional,229,6.2,Baik,Sedang,Buruk,102,sedang
+Ciherang,85,Modern,145,5.9,Baik,Rendah,Normal,102,sedang
+Seruni,80,Modern,147,5.3,Kurang,Rendah,Buruk,72,tinggi
+Seruni,90,Modern,220,6.6,Baik,Sedang,Buruk,108,sedang
+Ciherang,90,Tradisional,233,5.6,Cukup,Rendah,Buruk,63,tinggi
+Seruni,80,Tradisional,203,6.9,Cukup,Rendah,Normal,120,sedang
+IR 64,90,Modern,213,6.2,Cukup,Rendah,Buruk,76,tinggi
+IR 64,90,Tradisional,107,5.1,Baik,Rendah,Normal,54,tinggi
+Ciherang,85,Modern,105,6.2,Baik,Sedang,Buruk,68,tinggi
+IR 64,90,Tradisional,194,5.9,Baik,Rendah,Normal,61,sedang
+IR 64,85,Modern,210,6.8,Kurang,Tinggi,Normal,96,sedang
+Ciherang,85,Tradisional,175,5.1,Kurang,Sedang,Normal,87,sedang
+Seruni,80,Tradisional,148,6.0,Kurang,Sedang,Buruk,107,sedang
+Seruni,90,Modern,100,5.8,Kurang,Sedang,Normal,60,sedang
+IR 64,90,Modern,122,6.0,Cukup,Sedang,Buruk,57,sedang
+Seruni,90,Modern,183,5.9,Baik,Rendah,Buruk,88,sedang
+IR 64,75,Tradisional,249,6.2,Kurang,Rendah,Normal,94,sedang
+Ciherang,80,Modern,206,6.1,Baik,Sedang,Buruk,103,sedang
+IR 64,85,Modern,173,6.0,Kurang,Rendah,Normal,111,tinggi
+Seruni,80,Modern,231,5.0,Baik,Sedang,Buruk,78,sedang
+Ciherang,90,Modern,195,5.6,Kurang,Rendah,Normal,101,sedang
+Seruni,90,Modern,126,6.4,Cukup,Sedang,Normal,94,tinggi
+IR 64,80,Tradisional,171,6.3,Cukup,Sedang,Normal,56,sedang
+Seruni,75,Tradisional,136,5.4,Kurang,Sedang,Normal,65,sedang
+IR 64,85,Modern,211,5.6,Baik,Sedang,Buruk,80,sedang
+Seruni,90,Modern,128,5.3,Cukup,Sedang,Normal,59,sedang
+Seruni,85,Modern,128,5.7,Kurang,Rendah,Buruk,97,sedang
+IR 64,70,Modern,179,5.6,Cukup,Tinggi,Buruk,69,sedang
+Seruni,90,Tradisional,120,6.8,Baik,Tinggi,Normal,65,tinggi
+IR 64,90,Tradisional,190,5.5,Baik,Rendah,Buruk,60,tinggi
+Ciherang,70,Modern,142,5.0,Cukup,Sedang,Normal,60,tinggi
+IR 64,80,Tradisional,198,5.8,Cukup,Sedang,Normal,100,tinggi
+Ciherang,80,Modern,147,5.6,Cukup,Sedang,Buruk,101,tinggi
+IR 64,80,Tradisional,149,6.6,Cukup,Sedang,Normal,115,tinggi
+Ciherang,75,Modern,109,6.3,Baik,Rendah,Normal,104,tinggi
+Seruni,75,Modern,204,5.5,Baik,Rendah,Buruk,73,sedang
+Seruni,80,Tradisional,162,5.4,Baik,Rendah,Normal,55,sedang
+Seruni,80,Tradisional,187,6.0,Cukup,Rendah,Buruk,89,tinggi
+Ciherang,80,Modern,133,5.9,Kurang,Sedang,Normal,61,tinggi
+Seruni,85,Tradisional,167,6.0,Baik,Rendah,Normal,80,sedang
+IR 64,90,Modern,106,6.2,Kurang,Sedang,Buruk,55,sedang
+Ciherang,75,Modern,119,6.1,Kurang,Tinggi,Normal,57,tinggi
+IR 64,75,Modern,249,5.5,Kurang,Rendah,Normal,92,tinggi
+Ciherang,70,Tradisional,154,6.0,Cukup,Rendah,Buruk,62,sedang
+IR 64,80,Modern,158,6.1,Cukup,Sedang,Normal,91,tinggi
+IR 64,90,Modern,120,5.5,Kurang,Rendah,Buruk,108,sedang
+Ciherang,75,Modern,233,5.5,Cukup,Rendah,Normal,77,tinggi
+Seruni,70,Tradisional,148,5.2,Cukup,Tinggi,Normal,67,tinggi
+IR 64,70,Tradisional,142,5.0,Baik,Sedang,Buruk,119,sedang
+IR 64,70,Tradisional,171,5.1,Baik,Tinggi,Buruk,116,sedang
+Seruni,90,Modern,136,5.0,Kurang,Tinggi,Buruk,70,sedang
+IR 64,90,Tradisional,108,6.3,Cukup,Tinggi,Normal,89,tinggi
+Ciherang,75,Modern,129,6.5,Kurang,Tinggi,Normal,93,sedang
+Ciherang,70,Modern,176,5.3,Baik,Rendah,Normal,102,sedang
+IR 64,70,Tradisional,138,6.1,Baik,Rendah,Buruk,101,tinggi
+Seruni,80,Modern,229,5.2,Baik,Tinggi,Normal,56,sedang
+Ciherang,80,Modern,142,5.3,Kurang,Sedang,Buruk,118,tinggi
+IR 64,80,Tradisional,211,6.3,Cukup,Rendah,Normal,114,sedang
+IR 64,80,Tradisional,186,5.2,Cukup,Tinggi,Buruk,69,tinggi
+Ciherang,90,Modern,231,5.5,Baik,Tinggi,Normal,77,sedang
+Seruni,90,Modern,208,5.7,Kurang,Sedang,Buruk,68,sedang
